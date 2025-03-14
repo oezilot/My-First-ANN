@@ -7,14 +7,15 @@ import random
 
 # funktion für fake weights und fake biases eines neurons
 def init_bias():
-    bias = random.uniform(-0.1, 0.1)
+    bias = random.uniform(-0.5, 0.5)
     return bias
-#print(init_bias()))
+#print(init_bias())
 
 def init_weights(anz_weights):
-    weights = [random.uniform(-1, 1) for _ in range(anz_weights)]
+    weights = [random.uniform(-0.5, 0.5) for _ in range(anz_weights)]
     return weights
 #print(init_weights(4))
+
 
 def init_network(dimension):
 
@@ -53,3 +54,4 @@ def init_network(dimension):
         } for _ in range(layer)  # Anzahl Neuronen in der aktuellen Schicht
     ])
     return network
+#print(init_network([9, 5, 5, 2]))

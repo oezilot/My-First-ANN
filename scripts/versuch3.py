@@ -37,7 +37,7 @@ print(f"\n------------------- Netzwerk (v.1) vor der Forward-Propagation mit ini
 print_array_structure(network1)
 
 
-#========== FORWARD PROPAGATION ==========
+#========== FORWARD PROPAGATION (hidden layer: relu, output layer: softmax) ==========
 
 # aktivierungsfunktionen
 def activation_relu(x):
