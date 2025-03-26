@@ -33,7 +33,6 @@ network = init_network([9, 5, 5, 2])
 # instantiating object 
 dot = Digraph(comment='A NN') 
 
-
 # aus dem netzwerk einen graphen erstellen
 def generate_graph(netz):
     for index1, layer in enumerate(netz):
