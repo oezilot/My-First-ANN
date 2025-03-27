@@ -3,7 +3,25 @@
         {
             "weights": null,
             "bias": null,
-            "activation": 1,
+            "activation": 0,
+            "error": null
+        },
+        {
+            "weights": null,
+            "bias": null,
+            "activation": 0,
+            "error": null
+        },
+        {
+            "weights": null,
+            "bias": null,
+            "activation": 0,
+            "error": null
+        },
+        {
+            "weights": null,
+            "bias": null,
+            "activation": 0,
             "error": null
         },
         {
@@ -27,31 +45,13 @@
         {
             "weights": null,
             "bias": null,
-            "activation": 0,
-            "error": null
-        },
-        {
-            "weights": null,
-            "bias": null,
-            "activation": 0,
-            "error": null
-        },
-        {
-            "weights": null,
-            "bias": null,
             "activation": 1,
             "error": null
         },
         {
             "weights": null,
             "bias": null,
-            "activation": 0,
-            "error": null
-        },
-        {
-            "weights": null,
-            "bias": null,
-            "activation": 0,
+            "activation": 1,
             "error": null
         }
     ],
@@ -69,7 +69,7 @@
                 0.527993989753636
             ],
             "bias": 0.07578826303342967,
-            "activation": 1.0952537346107778,
+            "activation": 0.7852146602440311,
             "error": -1.001340367006371
         },
         {
@@ -85,7 +85,7 @@
                 -0.3762275810049473
             ],
             "bias": 0.08271714266347074,
-            "activation": 0.9867959732675302,
+            "activation": 0,
             "error": -1.6910789827708164
         },
         {
@@ -101,7 +101,7 @@
                 0.31029112812189863
             ],
             "bias": 0.27407789639057756,
-            "activation": 0.781860439059583,
+            "activation": 0.24604459048640442,
             "error": -1.6981604675589415
         },
         {
@@ -133,7 +133,7 @@
                 0.18495246917120997
             ],
             "bias": 0.18841200241194112,
-            "activation": 1.001559738212865,
+            "activation": 0.6131738585824908,
             "error": -0.7253698816597228
         }
     ],
@@ -171,7 +171,7 @@
                 0.20447760978696605
             ],
             "bias": 0.0783308328946547,
-            "activation": 1.0492410692660497,
+            "activation": 0.4959971874722566,
             "error": -0.6332171808109098
         },
         {
@@ -209,7 +209,7 @@
                 -2.0474084403074824
             ],
             "bias": -0.4631519250625452,
-            "activation": 0.6683238464849346,
+            "activation": 0.4713008607758702,
             "error": 0.3154972450910769
         },
         {
@@ -221,7 +221,7 @@
                 -3.4623109353409873
             ],
             "bias": 0.38292029015248097,
-            "activation": 0.3316761535150655,
+            "activation": 0.5286991392241298,
             "error": -0.3154972450910769
         }
     ]
