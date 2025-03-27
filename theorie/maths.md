@@ -21,6 +21,7 @@ neuronen = zahlen = funktionswerte einer sigmoid-funktion = outputs der sigmoid-
 - wie werden semantische vektoren gemacht?
 - müsen alle hidden layers gleich viele neuronen haben?
 - ist das resultat der cost-funtion eine zahl pro neuron oder eher einen gradienten?
+- ich checke folgende formeln nicht: loss-funcktion, die erechneung der neuen weights...(warum habe ich falsch abgeleitet?!)
 
 
 ## Train the Network

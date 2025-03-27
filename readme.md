@@ -7,4 +7,3 @@
 
 ## Komponenten eines neuronalen Netzes
 1. funktion um trainingsdaten und testdaten zu generieren
-
