@@ -6,4 +6,14 @@
 - das hat nicht geholfen aber trotzdem interessant: https://medium.com/@ibaad/neural-networks-code-without-matrix-ee55e5e9bbde 
 
 ## Komponenten eines neuronalen Netzes
-1. funktion um trainingsdaten und testdaten zu generieren
+1. funktion um trainingsdaten und testdaten zu generieren$
+
+## todo's
+- [x] bei der backprop das loss returnen
+- [ ] mir gpt den code reviewen
+- [x] grapisch den loss darstellen
+- [ ] bigger training data size!
+- [ ] trying the model with a different type of training data (lige digit recognition)
+- [ ] optimizing the model
+- [ ] creating a gui for the whole thing for humans to be able to interact with it and load their own training data
+- [ ] zusammenfassung des backend-codes mit allen wichtigen funktionen
