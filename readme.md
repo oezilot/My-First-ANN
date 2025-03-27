@@ -17,3 +17,11 @@
 - [ ] optimizing the model
 - [ ] creating a gui for the whole thing for humans to be able to interact with it and load their own training data
 - [ ] zusammenfassung des backend-codes mit allen wichtigen funktionen
+
+## beobachtungen zum code wie ich ihn verbessern/optimieren könnte:
+- [ ] grössere trainingsdatenportionen
+- [ ] nach jedem training (10 bilditerationen) wird das model geresettet
+
+## Probleme die beim machine learning auftreten können (debugging):
+- die loss-kurve ist periodisch
+- die loss-kurve hat komische peaks
